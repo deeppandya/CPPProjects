@@ -1,0 +1,26 @@
+﻿Build started 10/08/2015 7:44:18 PM.
+     1>Project "C:\Users\Deep\Documents\Visual Studio 2013\Projects\Assignment4cpp\Assignment4cpp\Assignment4cpp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Canvas.cpp Rhombus.cpp
+         Rhombus.cpp
+     1>c:\users\deep\documents\visual studio 2013\projects\assignment4cpp\assignment4cpp\rhombus.cpp(34): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\deep\documents\visual studio 2013\projects\assignment4cpp\assignment4cpp\rhombus.cpp(51): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         Canvas.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Deep\Documents\Visual Studio 2013\Projects\Assignment4cpp\Debug\Assignment4cpp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Deep\Documents\Visual Studio 2013\Projects\Assignment4cpp\Debug\Assignment4cpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Deep\Documents\Visual Studio 2013\Projects\Assignment4cpp\Debug\Assignment4cpp.lib" /MACHINE:X86 Debug\BorderedCanvas.obj
+         Debug\Canvas.obj
+         Debug\Driver.obj
+         Debug\FramedCanvas.obj
+         Debug\Isosceles.obj
+         Debug\PlainCanvas.obj
+         Debug\Rectangle.obj
+         Debug\Rhombus.obj
+         Debug\RightIsosceles.obj
+         Debug\Shape.obj
+         Assignment4cpp.vcxproj -> C:\Users\Deep\Documents\Visual Studio 2013\Projects\Assignment4cpp\Debug\Assignment4cpp.exe
+     1>Done Building Project "C:\Users\Deep\Documents\Visual Studio 2013\Projects\Assignment4cpp\Assignment4cpp\Assignment4cpp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.35

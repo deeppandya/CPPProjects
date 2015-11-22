@@ -1,0 +1,278 @@
+A : 
+Token : Advice
+Token Frequency : 3
+Line Numbers : (1)
+
+
+Token : a
+Token Frequency : 3
+Line Numbers : (9,10,11)
+
+
+Token : and
+Token Frequency : 5
+Line Numbers : (11,13)
+
+
+Token : assignment
+Token Frequency : 1
+Line Numbers : (10)
+
+
+B : 
+Token : Big
+Token Frequency : 1
+Line Numbers : (12)
+
+
+Token : But
+Token Frequency : 1
+Line Numbers : (7)
+
+
+Token : better
+Token Frequency : 1
+Line Numbers : (5)
+
+
+Token : by
+Token Frequency : 5
+Line Numbers : (2,4,5,7)
+
+
+C : 
+Token : C
+Token Frequency : 1
+Line Numbers : (13)
+
+
+Token : called
+Token Frequency : 1
+Line Numbers : (12)
+
+
+Token : class
+Token Frequency : 1
+Line Numbers : (8)
+
+
+Token : const
+Token Frequency : 1
+Line Numbers : (5)
+
+
+Token : constructor
+Token Frequency : 1
+Line Numbers : (9)
+
+
+Token : copy
+Token Frequency : 2
+Line Numbers : (9,10)
+
+
+D : 
+Token : Do
+Token Frequency : 1
+Line Numbers : (2)
+
+
+Token : defines
+Token Frequency : 1
+Line Numbers : (8)
+
+
+Token : destructor
+Token Frequency : 1
+Line Numbers : (11)
+
+
+Token : do
+Token Frequency : 1
+Line Numbers : (4)
+
+
+Token : dynamic
+Token Frequency : 1
+Line Numbers : (3)
+
+
+E : 
+Token : emphasized
+Token Frequency : 1
+Line Numbers : (13)
+
+
+Token : even
+Token Frequency : 1
+Line Numbers : (5)
+
+
+Token : ever
+Token Frequency : 1
+Line Numbers : (4)
+
+
+F : 
+Token : functions
+Token Frequency : 2
+Line Numbers : (2,4)
+
+
+H : 
+Token : handle
+Token Frequency : 1
+Line Numbers : (3)
+
+
+Token : heap
+Token Frequency : 1
+Line Numbers : (3)
+
+
+I : 
+Token : i.e
+Token Frequency : 1
+Line Numbers : (3)
+
+
+Token : if
+Token Frequency : 2
+Line Numbers : (3,7)
+
+
+Token : in
+Token Frequency : 1
+Line Numbers : (13)
+
+
+Token : instead
+Token Frequency : 1
+Line Numbers : (5)
+
+
+Token : is
+Token Frequency : 1
+Line Numbers : (13)
+
+
+L : 
+Token : literature
+Token Frequency : 1
+Line Numbers : (13)
+
+
+M : 
+Token : make
+Token Frequency : 1
+Line Numbers : (8)
+
+
+Token : memory
+Token Frequency : 2
+Line Numbers : (3)
+
+
+Token : must
+Token Frequency : 1
+Line Numbers : (7)
+
+
+N : 
+Token : not
+Token Frequency : 2
+Line Numbers : (2,4)
+
+
+O : 
+Token : objects
+Token Frequency : 5
+Line Numbers : (2,3,4,7,8)
+
+
+Token : of
+Token Frequency : 2
+Line Numbers : (8,12)
+
+
+Token : operator
+Token Frequency : 1
+Line Numbers : (10)
+
+
+Token : or
+Token Frequency : 2
+Line Numbers : (5,12)
+
+
+Token : over
+Token Frequency : 4
+Line Numbers : (13)
+
+
+P : 
+Token : pass
+Token Frequency : 5
+Line Numbers : (2,4,5,7)
+
+
+R : 
+Token : Rule
+Token Frequency : 1
+Line Numbers : (12)
+
+
+Token : reference
+Token Frequency : 2
+Line Numbers : (5)
+
+
+S : 
+Token : sure
+Token Frequency : 1
+Line Numbers : (8)
+
+
+T : 
+Token : That's
+Token Frequency : 1
+Line Numbers : (12)
+
+
+Token : Three
+Token Frequency : 2
+Line Numbers : (12)
+
+
+Token : that
+Token Frequency : 1
+Line Numbers : (8)
+
+
+Token : the
+Token Frequency : 5
+Line Numbers : (3,8,12,13)
+
+
+Token : these
+Token Frequency : 2
+Line Numbers : (7,8)
+
+
+Token : to
+Token Frequency : 2
+Line Numbers : (2,4)
+
+
+V : 
+Token : value
+Token Frequency : 3
+Line Numbers : (2,4,7)
+
+
+Y : 
+Token : you
+Token Frequency : 1
+Line Numbers : (7)
+
+

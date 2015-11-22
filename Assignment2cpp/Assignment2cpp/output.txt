@@ -1,0 +1,208 @@
+
+Token : Advice
+Frequency : 3
+Line numbers : 1 
+
+Token : a
+Frequency : 3
+Line numbers : 9 10 11 
+
+Token : and
+Frequency : 5
+Line numbers : 11 13 
+
+Token : assignment
+Frequency : 1
+Line numbers : 10 
+
+Token : Big
+Frequency : 1
+Line numbers : 12 
+
+Token : But
+Frequency : 1
+Line numbers : 7 
+
+Token : better
+Frequency : 1
+Line numbers : 5 
+
+Token : by
+Frequency : 5
+Line numbers : 2 4 5 7 
+
+Token : C
+Frequency : 1
+Line numbers : 13 
+
+Token : called
+Frequency : 1
+Line numbers : 12 
+
+Token : class
+Frequency : 1
+Line numbers : 8 
+
+Token : const
+Frequency : 1
+Line numbers : 5 
+
+Token : constructor
+Frequency : 1
+Line numbers : 9 
+
+Token : copy
+Frequency : 2
+Line numbers : 9 10 
+
+Token : Do
+Frequency : 1
+Line numbers : 2 
+
+Token : defines
+Frequency : 1
+Line numbers : 8 
+
+Token : destructor
+Frequency : 1
+Line numbers : 11 
+
+Token : do
+Frequency : 1
+Line numbers : 4 
+
+Token : dynamic
+Frequency : 1
+Line numbers : 3 
+
+Token : emphasized
+Frequency : 1
+Line numbers : 13 
+
+Token : even
+Frequency : 1
+Line numbers : 5 
+
+Token : ever
+Frequency : 1
+Line numbers : 4 
+
+Token : functions
+Frequency : 2
+Line numbers : 2 4 
+
+Token : handle
+Frequency : 1
+Line numbers : 3 
+
+Token : heap
+Frequency : 1
+Line numbers : 3 
+
+Token : i.e
+Frequency : 1
+Line numbers : 3 
+
+Token : if
+Frequency : 2
+Line numbers : 3 7 
+
+Token : in
+Frequency : 1
+Line numbers : 13 
+
+Token : instead
+Frequency : 1
+Line numbers : 5 
+
+Token : is
+Frequency : 1
+Line numbers : 13 
+
+Token : literature
+Frequency : 1
+Line numbers : 13 
+
+Token : make
+Frequency : 1
+Line numbers : 8 
+
+Token : memory
+Frequency : 2
+Line numbers : 3 
+
+Token : must
+Frequency : 1
+Line numbers : 7 
+
+Token : not
+Frequency : 2
+Line numbers : 2 4 
+
+Token : objects
+Frequency : 5
+Line numbers : 2 3 4 7 8 
+
+Token : of
+Frequency : 2
+Line numbers : 8 12 
+
+Token : operator
+Frequency : 1
+Line numbers : 10 
+
+Token : or
+Frequency : 2
+Line numbers : 5 12 
+
+Token : over
+Frequency : 4
+Line numbers : 13 
+
+Token : pass
+Frequency : 5
+Line numbers : 2 4 5 7 
+
+Token : Rule
+Frequency : 1
+Line numbers : 12 
+
+Token : reference
+Frequency : 2
+Line numbers : 5 
+
+Token : sure
+Frequency : 1
+Line numbers : 8 
+
+Token : That's
+Frequency : 1
+Line numbers : 12 
+
+Token : Three
+Frequency : 2
+Line numbers : 12 
+
+Token : that
+Frequency : 1
+Line numbers : 8 
+
+Token : the
+Frequency : 5
+Line numbers : 3 8 12 13 
+
+Token : these
+Frequency : 2
+Line numbers : 7 8 
+
+Token : to
+Frequency : 2
+Line numbers : 2 4 
+
+Token : value
+Frequency : 3
+Line numbers : 2 4 7 
+
+Token : you
+Frequency : 1
+Line numbers : 7 
